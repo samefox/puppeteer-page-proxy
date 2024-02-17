@@ -16,7 +16,7 @@ Forwards intercepted requests from the browser to Node.js where it redoes the re
 
 ## Installation
 ```
-npm i puppeteer-page-proxy
+npm i git+https://github.com/samefox/puppeteer-page-proxy.git
 ```
 ## API
 #### useProxy(pageOrReq, proxy)
